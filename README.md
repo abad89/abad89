@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Anthony.
+
+I'm currently a student in Flatiron School's software engineering course, learning JavaScript, React, Ruby, Rails, and more.
+
+
 
 <!--
 **abad89/abad89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
