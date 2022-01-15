@@ -1,6 +1,6 @@
 ### Hi, I'm Anthony.
 
-I'm currently a student in Flatiron School's software engineering course, learning JavaScript, React, Ruby, Rails, and more.
+I'm currently looking for a junior software engineer position. I'm familiar with JavaScript, React, Ruby, Rails, and more, and always open to learning new things!
 
 
 
